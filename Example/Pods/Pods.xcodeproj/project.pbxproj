@@ -186,7 +186,6 @@
 		0E7EDDF13BBDD945570C1C6AF590CCDB /* UIColor+Ry.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+Ry.m"; path = "RyCyxbsExtensionOC/Classes/UIColor+Ry.m"; sourceTree = "<group>"; };
 		0E89FBE15830FC9383BEC8BC0EDCD822 /* AFImageDownloader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFImageDownloader.m; path = "UIKit+AFNetworking/AFImageDownloader.m"; sourceTree = "<group>"; };
 		12C4E580570222DCFCABD432E678BD7D /* AFNetworking.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = AFNetworking.modulemap; sourceTree = "<group>"; };
-		145AE5422A139CA400A2EC14 /* RyCyxbsThirdEX.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RyCyxbsThirdEX.h; sourceTree = "<group>"; };
 		157FCF2DA59F20B840F6D3B3DDE230E5 /* RyCyxbsThirdEX-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "RyCyxbsThirdEX-Info.plist"; sourceTree = "<group>"; };
 		196F93D02DCB84FB0B5A15618D76163F /* RyCyxbsThirdEX */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = RyCyxbsThirdEX; path = RyCyxbsThirdEX.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		19C6A47BD8B6F394AB6E8407DC9D0F85 /* UIButton+DarkModeKit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIButton+DarkModeKit.swift"; path = "Sources/FluentDarkModeKit/Extensions/UIButton+DarkModeKit.swift"; sourceTree = "<group>"; };
@@ -235,11 +234,11 @@
 		5CE2954DE55B431EDDB49530B5F55782 /* UITabBar+DarkModeKit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UITabBar+DarkModeKit.swift"; path = "Sources/FluentDarkModeKit/Extensions/UITabBar+DarkModeKit.swift"; sourceTree = "<group>"; };
 		60E706E623FCEE5B2D24785631FED984 /* Pods-RyCyxbsThirdEX_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RyCyxbsThirdEX_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		61F09C2BFBCDC02E905F5FB3737C53CF /* DMTraitCollection.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DMTraitCollection.m; path = Sources/DarkModeCore/DMTraitCollection.m; sourceTree = "<group>"; };
-		62CA98E6EAC783B0B505AADA562F4843 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		62CA98E6EAC783B0B505AADA562F4843 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		63181CB1CE1801E54CF507A068AE405F /* DMTraitCollection.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DMTraitCollection.h; path = Sources/DarkModeCore/DMTraitCollection.h; sourceTree = "<group>"; };
 		63DCF72EBC96E6C51B2214E05B4D0651 /* Pods-RyCyxbsThirdEX_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RyCyxbsThirdEX_Example.modulemap"; sourceTree = "<group>"; };
 		670CB321537444E86EC120EDFAF4D6E5 /* UIActivityIndicatorView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIActivityIndicatorView+AFNetworking.m"; path = "UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m"; sourceTree = "<group>"; };
-		676CCA13E0DADB7C30C4DF1D8E7E46EB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		676CCA13E0DADB7C30C4DF1D8E7E46EB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		69E42937D6D967784592A61ECBD79717 /* AFNetworking-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "AFNetworking-Info.plist"; sourceTree = "<group>"; };
 		710C9ABB9C6AADBA32B707B8CFF8EEA7 /* UINavigationBar+DarkModeKit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UINavigationBar+DarkModeKit.swift"; path = "Sources/FluentDarkModeKit/Extensions/UINavigationBar+DarkModeKit.swift"; sourceTree = "<group>"; };
 		73B3D171F208D4AB9FBCB14A39FE2CAB /* AFNetworking.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AFNetworking.release.xcconfig; sourceTree = "<group>"; };
@@ -266,7 +265,7 @@
 		9853EB291A953BBD7D13ED643945C844 /* UIView+DarkModeKitSwizzling.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+DarkModeKitSwizzling.h"; path = "Sources/DarkModeCore/UIView+DarkModeKitSwizzling.h"; sourceTree = "<group>"; };
 		992A49F5BB6FD38C164E2757E8B65822 /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworkReachabilityManager.h; path = AFNetworking/AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
 		9A7307AC70733D6ADDF685F9C4AD91D3 /* UIImageView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+AFNetworking.h"; path = "UIKit+AFNetworking/UIImageView+AFNetworking.h"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DAAAD66E258BDB4BEBC27C1494D85EC /* RyCyxbsExtensionOC.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = RyCyxbsExtensionOC.modulemap; sourceTree = "<group>"; };
 		9EB43992F1475553E0156A01C07DEE98 /* Pods-RyCyxbsThirdEX_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RyCyxbsThirdEX_Tests-umbrella.h"; sourceTree = "<group>"; };
 		9EF34022065AB438447ED2D4B644278A /* UIPageControl+DarkModeKit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIPageControl+DarkModeKit.swift"; path = "Sources/FluentDarkModeKit/Extensions/UIPageControl+DarkModeKit.swift"; sourceTree = "<group>"; };
@@ -307,7 +306,7 @@
 		DA53D1A1188B34F695F6784A77667FA1 /* AFNetworking-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AFNetworking-umbrella.h"; sourceTree = "<group>"; };
 		DA7931421AC6C7066CFD9AE2B44E9D3A /* UITextView+DarkModeKit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UITextView+DarkModeKit.swift"; path = "Sources/FluentDarkModeKit/Extensions/UITextView+DarkModeKit.swift"; sourceTree = "<group>"; };
 		DACA52E1D7FFB7624E3F2EEA297524FA /* FluentDarkModeKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FluentDarkModeKit.debug.xcconfig; sourceTree = "<group>"; };
-		E016614EB34A374275CDE2F88483177E /* RyCyxbsThirdEX.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = RyCyxbsThirdEX.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		E016614EB34A374275CDE2F88483177E /* RyCyxbsThirdEX.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = RyCyxbsThirdEX.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E548FB08E174310B82F3A467814C6FF3 /* UIColor+DarkModeKit.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+DarkModeKit.m"; path = "Sources/DarkModeCore/UIColor+DarkModeKit.m"; sourceTree = "<group>"; };
 		E81621D64C442B1BF8F39117F41ECB89 /* UIImage+DarkModeKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+DarkModeKit.h"; path = "Sources/DarkModeCore/UIImage+DarkModeKit.h"; sourceTree = "<group>"; };
 		E894B9C11610DC32FEE8095CBE9B5203 /* RyCyxbsExtensionOC-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RyCyxbsExtensionOC-prefix.pch"; sourceTree = "<group>"; };
@@ -433,7 +432,6 @@
 				D6F4382F263195FC651FEB6379457336 /* UIColor+RyDM.m */,
 				2E0E0AEF3A8D61F6D460BF939DED42E6 /* Pod */,
 				65B53EB91F72F55022021BA000151BC0 /* Support Files */,
-				145AE5422A139CA400A2EC14 /* RyCyxbsThirdEX.h */,
 			);
 			name = RyCyxbsThirdEX;
 			path = ../..;
@@ -578,6 +576,7 @@
 				808802293B0AB3D9A6B89CE905977D52 /* UIView+Ry.m */,
 				0C717EC58F11DA311E9AF5010209D18B /* Support Files */,
 			);
+			name = RyCyxbsExtensionOC;
 			path = RyCyxbsExtensionOC;
 			sourceTree = "<group>";
 		};
@@ -660,6 +659,7 @@
 				B4F290826CE16484F974821EA6ED2F60 /* Support Files */,
 				7D1B0AF08FE29C5076C4B223A25F4CF2 /* UIKit */,
 			);
+			name = AFNetworking;
 			path = AFNetworking;
 			sourceTree = "<group>";
 		};
@@ -706,6 +706,7 @@
 				41AE667C28362B469A2C8B95390F2018 /* UIViewController+DarkModeKit.m */,
 				B9F2BDFB487FB0459A95BBB26BDE61FD /* Support Files */,
 			);
+			name = FluentDarkModeKit;
 			path = FluentDarkModeKit;
 			sourceTree = "<group>";
 		};
@@ -1430,7 +1431,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};

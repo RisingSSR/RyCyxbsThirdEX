@@ -1,6 +1,6 @@
 {
   "name": "RyCyxbsThirdEX",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "带第三方库的掌邮EX",
   "description": "这个EX主要用于主工程，不适用于小组件，带AF等功能",
   "homepage": "https://github.com/RisingSSR/RyCyxbsThirdEX",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/RisingSSR/RyCyxbsThirdEX.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "11.0"
@@ -24,7 +24,7 @@
       "4.0.1"
     ],
     "RyCyxbsExtensionOC": [
-
+      "0.1.1"
     ],
     "FluentDarkModeKit": [
       "1.0.4"
