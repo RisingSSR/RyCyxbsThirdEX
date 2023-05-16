@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'RyCyxbsThirdEX_Example' do
+  pod 'RyCyxbsThirdEX', :path => '../'
+
+  target 'RyCyxbsThirdEX_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
