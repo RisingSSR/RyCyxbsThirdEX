@@ -17,6 +17,8 @@ NS_ASSUME_NONNULL_BEGIN
 /// dm_colorWithLightColor:darkColor:
 + (UIColor *)Light:(UIColor *)lightColor Dark:(UIColor *)darkColor;
 
++ (UIColor *)lightHEX:(NSString *)lstr darkHEX:(NSString *)rstr;
+
 @end
 
 NS_ASSUME_NONNULL_END
