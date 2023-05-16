@@ -1,0 +1,6 @@
+framework module RyCyxbsThirdEX {
+  umbrella header "RyCyxbsThirdEX-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,46 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - FluentDarkModeKit (1.0.4)
+  - RyCyxbsExtensionOC (0.1.1)
+  - RyCyxbsThirdEX (0.1.0):
+    - AFNetworking (= 4.0.1)
+    - FluentDarkModeKit (= 1.0.4)
+    - RyCyxbsExtensionOC
+
+DEPENDENCIES:
+  - RyCyxbsThirdEX (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - FluentDarkModeKit
+  https://github.com/RisingSSR/RisingCyxbsSepc.git:
+    - RyCyxbsExtensionOC
+
+EXTERNAL SOURCES:
+  RyCyxbsThirdEX:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AFNetworking: 3bd23d814e976cd148d7d44c3ab78017b744cd58
+  FluentDarkModeKit: b6317653a00329564582884772ec57c4eaad1a1f
+  RyCyxbsExtensionOC: e7946ae15a29de3b6e340744f4796c2f0a65c619
+  RyCyxbsThirdEX: 63748fac4cc5967c3d1fc4489e5790cfbcbf28c7
+
+PODFILE CHECKSUM: 305fa10454fbeeb7c99cdb302e3b75f38efc7480
+
+COCOAPODS: 1.12.1

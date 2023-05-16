@@ -1,0 +1,33 @@
+{
+  "name": "RyCyxbsThirdEX",
+  "version": "0.1.0",
+  "summary": "带第三方库的掌邮EX",
+  "description": "这个EX主要用于主工程，不适用于小组件，带AF等功能",
+  "homepage": "https://github.com/RisingSSR/RyCyxbsThirdEX",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RisingSSR": "2769119954@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/RisingSSR/RyCyxbsThirdEX.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "RyCyxbsThirdEX/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "4.0.1"
+    ],
+    "RyCyxbsExtensionOC": [
+
+    ],
+    "FluentDarkModeKit": [
+      "1.0.4"
+    ]
+  }
+}
