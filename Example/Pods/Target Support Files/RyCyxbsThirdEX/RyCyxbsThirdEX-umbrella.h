@@ -14,6 +14,7 @@
 #import "HttpTool.h"
 #import "RyCyxbsThirdEX.h"
 #import "UIColor+RyDM.h"
+#import "UIView+RyGradient.h"
 
 FOUNDATION_EXPORT double RyCyxbsThirdEXVersionNumber;
 FOUNDATION_EXPORT const unsigned char RyCyxbsThirdEXVersionString[];
