@@ -16,7 +16,7 @@ PODS:
     - AFNetworking/NSURLSession
   - FluentDarkModeKit (1.0.4)
   - RyCyxbsExtensionOC (0.1.1)
-  - RyCyxbsThirdEX (0.1.1):
+  - RyCyxbsThirdEX (0.1.2):
     - AFNetworking (= 4.0.1)
     - FluentDarkModeKit (= 1.0.4)
     - RyCyxbsExtensionOC
@@ -39,8 +39,8 @@ SPEC CHECKSUMS:
   AFNetworking: 3bd23d814e976cd148d7d44c3ab78017b744cd58
   FluentDarkModeKit: b6317653a00329564582884772ec57c4eaad1a1f
   RyCyxbsExtensionOC: e7946ae15a29de3b6e340744f4796c2f0a65c619
-  RyCyxbsThirdEX: 13d831f1d3f32ebf0f5336c00583f5bdef7359fd
+  RyCyxbsThirdEX: 475edd568543c7d889b0aa18084ab1a3f22f0322
 
-PODFILE CHECKSUM: 39efced8a2943d98840387c99715f27e40733084
+PODFILE CHECKSUM: b22deffbf50fcea1a068ed6952b0645613f0a4a5
 
 COCOAPODS: 1.12.1

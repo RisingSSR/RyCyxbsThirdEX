@@ -10,6 +10,7 @@
 
 #import <Foundation/Foundation.h>
 #import <RyCyxbsExtensionOC/RyCyxbsExtensionOC.h>
+#import "FontName.h"
 
 #if __has_include(<UIKit/UIKit.h>)
 #import <UIKit/UIKit.h>
