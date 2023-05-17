@@ -11,6 +11,7 @@
 #endif
 
 #import "HttpTool.h"
+#import "RyCyxbsThirdEX.h"
 #import "UIColor+RyDM.h"
 
 FOUNDATION_EXPORT double RyCyxbsThirdEXVersionNumber;
