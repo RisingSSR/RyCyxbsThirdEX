@@ -186,7 +186,7 @@
 		0E7EDDF13BBDD945570C1C6AF590CCDB /* UIColor+Ry.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+Ry.m"; path = "RyCyxbsExtensionOC/Classes/UIColor+Ry.m"; sourceTree = "<group>"; };
 		0E89FBE15830FC9383BEC8BC0EDCD822 /* AFImageDownloader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFImageDownloader.m; path = "UIKit+AFNetworking/AFImageDownloader.m"; sourceTree = "<group>"; };
 		12C4E580570222DCFCABD432E678BD7D /* AFNetworking.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = AFNetworking.modulemap; sourceTree = "<group>"; };
-		13E77C3462B9A02FCE67C10B2ECC5FE1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		13E77C3462B9A02FCE67C10B2ECC5FE1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		196F93D02DCB84FB0B5A15618D76163F /* RyCyxbsThirdEX */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = RyCyxbsThirdEX; path = RyCyxbsThirdEX.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		19C6A47BD8B6F394AB6E8407DC9D0F85 /* UIButton+DarkModeKit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIButton+DarkModeKit.swift"; path = "Sources/FluentDarkModeKit/Extensions/UIButton+DarkModeKit.swift"; sourceTree = "<group>"; };
 		1A45289DAFFE58257E7058588DC5794D /* RyCyxbsExtensionOC-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "RyCyxbsExtensionOC-Info.plist"; sourceTree = "<group>"; };
@@ -253,7 +253,7 @@
 		846928D24B927B00338801D7DB2EBF2F /* RyCyxbsExtensionOC-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RyCyxbsExtensionOC-dummy.m"; sourceTree = "<group>"; };
 		849831D46257CE55F09C00C0217EF9B5 /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLResponseSerialization.h; path = AFNetworking/AFURLResponseSerialization.h; sourceTree = "<group>"; };
 		85030892D3F7E0C5FDE0CE20A76D4EC3 /* UITableView+DarkModeKit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UITableView+DarkModeKit.swift"; path = "Sources/FluentDarkModeKit/Extensions/UITableView+DarkModeKit.swift"; sourceTree = "<group>"; };
-		854F6CD8F7961C400F592515B558C568 /* RyCyxbsThirdEX.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = RyCyxbsThirdEX.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		854F6CD8F7961C400F592515B558C568 /* RyCyxbsThirdEX.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = RyCyxbsThirdEX.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		861B4410187E2703ECE69F88F7AE7F96 /* RyCyxbsExtensionOC-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RyCyxbsExtensionOC-umbrella.h"; sourceTree = "<group>"; };
 		8635860865319FDBD24F48D2BA06EE18 /* HttpTool.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HttpTool.h; path = RyCyxbsThirdEX/Classes/HttpTool.h; sourceTree = "<group>"; };
 		8798CEE94D6BCB7442F1D15F9248EA74 /* RyCyxbsThirdEX.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = RyCyxbsThirdEX.release.xcconfig; sourceTree = "<group>"; };
@@ -268,7 +268,7 @@
 		99279172C31AB273153D4BE1FA958AB5 /* RyCyxbsThirdEX.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = RyCyxbsThirdEX.debug.xcconfig; sourceTree = "<group>"; };
 		992A49F5BB6FD38C164E2757E8B65822 /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworkReachabilityManager.h; path = AFNetworking/AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
 		9A7307AC70733D6ADDF685F9C4AD91D3 /* UIImageView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+AFNetworking.h"; path = "UIKit+AFNetworking/UIImageView+AFNetworking.h"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DAAAD66E258BDB4BEBC27C1494D85EC /* RyCyxbsExtensionOC.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = RyCyxbsExtensionOC.modulemap; sourceTree = "<group>"; };
 		9EB43992F1475553E0156A01C07DEE98 /* Pods-RyCyxbsThirdEX_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RyCyxbsThirdEX_Tests-umbrella.h"; sourceTree = "<group>"; };
 		9EF34022065AB438447ED2D4B644278A /* UIPageControl+DarkModeKit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIPageControl+DarkModeKit.swift"; path = "Sources/FluentDarkModeKit/Extensions/UIPageControl+DarkModeKit.swift"; sourceTree = "<group>"; };
@@ -315,7 +315,7 @@
 		EC3AFA6F2C35BCF8EA4AEC4B3796C375 /* RyCyxbsExtensionOC.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = RyCyxbsExtensionOC.release.xcconfig; sourceTree = "<group>"; };
 		F34C26C14CC003C436EB744723342329 /* AFSecurityPolicy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFSecurityPolicy.h; path = AFNetworking/AFSecurityPolicy.h; sourceTree = "<group>"; };
 		F6CC158848BA926AC183125901CB1166 /* Pods-RyCyxbsThirdEX_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RyCyxbsThirdEX_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		F85C4B814A474056DC57A294EF1CF24E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		F85C4B814A474056DC57A294EF1CF24E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F9424311F3CDF04946B1D57D7B7E7E7C /* AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworking.h; path = AFNetworking/AFNetworking.h; sourceTree = "<group>"; };
 		F998AAF0CB2E9C9E3506BE86069A0C34 /* Pods-RyCyxbsThirdEX_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RyCyxbsThirdEX_Example-umbrella.h"; sourceTree = "<group>"; };
 		FC62A50145C00995E20AE46D9CD2D64B /* Pods-RyCyxbsThirdEX_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RyCyxbsThirdEX_Example-dummy.m"; sourceTree = "<group>"; };
@@ -562,7 +562,6 @@
 				808802293B0AB3D9A6B89CE905977D52 /* UIView+Ry.m */,
 				0C717EC58F11DA311E9AF5010209D18B /* Support Files */,
 			);
-			name = RyCyxbsExtensionOC;
 			path = RyCyxbsExtensionOC;
 			sourceTree = "<group>";
 		};
@@ -639,9 +638,9 @@
 		F1B8475BF8590D06DB3BFE27C8EA5C0C /* RyCyxbsThirdEX */ = {
 			isa = PBXGroup;
 			children = (
+				88F6EBD3EAC6A31F02ED466BB4590DCB /* RyCyxbsThirdEX.h */,
 				8635860865319FDBD24F48D2BA06EE18 /* HttpTool.h */,
 				B0F75B8B6600294B2FDC4F87074288EF /* HttpTool.m */,
-				88F6EBD3EAC6A31F02ED466BB4590DCB /* RyCyxbsThirdEX.h */,
 				A047B4AD494C39B3CDAF87FEB1D66F65 /* UIColor+RyDM.h */,
 				36BF6274A8F6936A67846046041D2239 /* UIColor+RyDM.m */,
 				ED302699C8EBBA8A2B825657C472E1BC /* Pod */,
@@ -662,7 +661,6 @@
 				B4F290826CE16484F974821EA6ED2F60 /* Support Files */,
 				7D1B0AF08FE29C5076C4B223A25F4CF2 /* UIKit */,
 			);
-			name = AFNetworking;
 			path = AFNetworking;
 			sourceTree = "<group>";
 		};
@@ -709,7 +707,6 @@
 				41AE667C28362B469A2C8B95390F2018 /* UIViewController+DarkModeKit.m */,
 				B9F2BDFB487FB0459A95BBB26BDE61FD /* Support Files */,
 			);
-			name = FluentDarkModeKit;
 			path = FluentDarkModeKit;
 			sourceTree = "<group>";
 		};
@@ -1435,8 +1432,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};

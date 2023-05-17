@@ -8,7 +8,7 @@
 
 #import "RYViewController.h"
 
-#import <RyCyxbsThirdEX/UIColor+RyDM.h>
+#import <RyCyxbsThirdEX/RyCyxbsThirdEX.h>
 
 @interface RYViewController ()
 

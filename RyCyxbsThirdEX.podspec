@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RyCyxbsThirdEX'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = '带第三方库的掌邮EX'
 
 # This description is used to generate tags and improve search results.
@@ -39,6 +39,6 @@ Pod::Spec.new do |s|
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'AFNetworking', '4.0.1'
-  s.dependency 'RyCyxbsExtensionOC', '0.1.1'
+  s.dependency 'RyCyxbsExtensionOC'
   s.dependency 'FluentDarkModeKit', '1.0.4'
 end
